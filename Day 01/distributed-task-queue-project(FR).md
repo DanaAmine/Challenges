@@ -73,7 +73,7 @@ Vous allez implémenter un **système de file d'attente distribuée** (**Distrib
 ---
 
 ## 📅 Deadline & Critères d’évaluation  
-📆 **Date limite** : _[Fixe une date]_  
+📆 **Date limite** : 25 MAR 2025 
 🔍 **Critères** :  
 ✅ Code bien structuré et clair  
 ✅ Bonne gestion de la file d’attente et du stockage des résultats  
