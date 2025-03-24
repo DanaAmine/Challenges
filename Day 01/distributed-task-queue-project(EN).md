@@ -73,7 +73,7 @@ You will implement a **Distributed Task Queue System**, allowing tasks to be man
 ---
 
 ## 📅 Deadline & Evaluation Criteria  
-📆 **Deadline**: _[Set a date]_  
+📆 **Deadline**: 25 MAR 2025 
 🔍 **Evaluation Criteria**:  
 ✅ Well-structured and clean code  
 ✅ Proper queue management and result storage  
